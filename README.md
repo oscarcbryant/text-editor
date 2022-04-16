@@ -67,7 +67,7 @@ Our Service Worker
 
 ![Alt Text](Assets/sw.jpg)
 
-Our IndexedDB
+Snap shot of our IndexedDB
 
 ![Alt Text](Assets/indexdb.jpg)
 
