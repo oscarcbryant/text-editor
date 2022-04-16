@@ -77,6 +77,7 @@ Our IndexedDB
 - Manifest
 - IndexedDB
 - ServiceWorkers
+- Heroku
 
 ### Author
 
