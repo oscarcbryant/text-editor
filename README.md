@@ -83,6 +83,6 @@ Snap shot of our IndexedDB
 
 This project was written and submitted by:
 
-Oscar Bryant https://github.com/oscarcbryant
+Oscar Charles Bryant https://github.com/oscarcbryant
 
 April 16th 2022
