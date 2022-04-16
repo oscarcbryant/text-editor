@@ -45,16 +45,25 @@ To build this text editor, we had an existing application and implement methods 
 
 
 ## Media
+What our application looks like from an open browser
 
 ![Alt Text](Assets/front.jpg)
 
+When we open our app in a single application
+
 ![Alt Text](Assets/openapp.jpg)
 
-![Alt Text]()
+Our Manifest folder within application
 
-![Alt Text]()
+![Alt Text](Assets/manifest.jpg)
 
-![Alt Text]()
+Our Service Worker
+
+![Alt Text](Assets/sw.jpg)
+
+Our IndexedDB
+
+![Alt Text](Assets/indexdb.jpg)
 
 
 ### Technologies used
