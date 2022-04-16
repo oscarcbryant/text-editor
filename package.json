@@ -3,12 +3,11 @@
     "version": "1.0.0",
     "main": "server.js",
     "scripts": {
-      "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
       "start": "cd Main && npm run start",
-      "server": "cd server nodemon server.js --ignore client",
-      "build": "cd client && npm run build",
-      "install": "cd client && npm install",
-      "client": "cd client && npm start"
+      "server": "cd Main/server nodemon server.js --ignore client",
+      "build": "cd Main/client && npm run build",
+      "install": "cd Main/client && npm install",
+      "client": "cd Main/client && npm start"
     },
     "engines" : { 
         "npm" : ">=7.0.0",
