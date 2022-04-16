@@ -46,13 +46,13 @@ To build this text editor, we had an existing application and implement methods 
 
 ## Media
 
-![Alt Text](assets/socialapi.gif)
+![Alt Text]()
 
 ### Technologies used
-- Mongoose
-- MongoDB
-- Express.js (for routing)
-- Moment (date and time registry)
+- PWA
+- Manifest
+- IndexedDB
+- ServiceWorkers
 
 ### Author
 
@@ -60,4 +60,4 @@ This project was written and submitted by:
 
 Oscar Bryant https://github.com/oscarcbryant
 
-April 10th, 2022
+April 16th 2022
