@@ -6,7 +6,7 @@ In this project, we have built a text editor that runs in the browser... The app
 
 
 
-To build this text editor, we had an existing application and implement methods for getting and storing data to an IndexedDB database. We have used a package called idb, which is a lightweight wrapper around the IndexedDB API. Our text ediutor app features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+To build this text editor, we had an existing application and implement methods for getting and storing data to an IndexedDB database. We have used a package called `idb`, which is a lightweight wrapper around the IndexedDB API. Our text ediutor app features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
 ## User Story
 
