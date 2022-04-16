@@ -46,9 +46,9 @@ To build this text editor, we had an existing application and implement methods 
 
 ## Media
 
-![Alt Text](assets/front.jpg)
+![Alt Text](Assets/front.jpg)
 
-![Alt Text](assets/openapp.jpg)
+![Alt Text](Assets/openapp.jpg)
 
 ![Alt Text]()
 
