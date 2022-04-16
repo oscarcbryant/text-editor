@@ -11,7 +11,8 @@ window.addEventListener('beforeinstallprompt', (event) => {
 butInstall.addEventListener('click', async (event) => {    
     event.prompt();
     installBtn.setAttribute('disabled', true);
-    installBtn.textContent = 'Installed!';});
+    installBtn.textContent = 'Installed!';
+});
 
 // TODO: Add an handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
